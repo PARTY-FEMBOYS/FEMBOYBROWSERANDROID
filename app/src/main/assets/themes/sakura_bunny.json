@@ -1,0 +1,16 @@
+{
+  "name": "Sakura Bunny",
+  "background": "bg",
+  "bg": "#2b1530",
+  "panel": "#4a2250",
+  "accent": "#ff8fc7",
+  "accent2": "#ffb3d9",
+  "text": "#fff0f8",
+  "text_dim": "#e7b7d6",
+  "radius": 16,
+  "panel_opacity": 0.72,
+  "overlay_opacity": 0.3,
+  "font": "Segoe UI",
+  "style_web": true,
+  "blur": 18
+}

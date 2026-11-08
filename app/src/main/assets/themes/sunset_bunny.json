@@ -1,0 +1,16 @@
+{
+  "name": "Sunset Bunny",
+  "background": "bg4",
+  "bg": "#2a1220",
+  "panel": "#5a2338",
+  "accent": "#ff9a8b",
+  "accent2": "#ffd27f",
+  "text": "#fff3ec",
+  "text_dim": "#e8b9a8",
+  "radius": 14,
+  "panel_opacity": 0.72,
+  "overlay_opacity": 0.3,
+  "font": "Segoe UI",
+  "style_web": true,
+  "blur": 18
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Lavender Night",
+  "background": "bg1",
+  "bg": "#140f2b",
+  "panel": "#2a1f55",
+  "accent": "#b79cff",
+  "accent2": "#8fb4ff",
+  "text": "#f1ecff",
+  "text_dim": "#b9afe0",
+  "radius": 14,
+  "panel_opacity": 0.72,
+  "overlay_opacity": 0.3,
+  "font": "Segoe UI",
+  "style_web": true,
+  "blur": 18
+}
